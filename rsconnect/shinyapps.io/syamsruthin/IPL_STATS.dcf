@@ -1,0 +1,12 @@
+name: IPL_STATS
+title: IPL_STATS
+username:
+account: syamsruthin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 333323
+bundleId: 1345704
+url: https://syamsruthin.shinyapps.io/IPL_STATS/
+when: 1525012314.58141
+asMultiple: FALSE
+asStatic: FALSE
